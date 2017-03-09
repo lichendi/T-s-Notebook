@@ -1,0 +1,6 @@
+framework module Pods_T_s_NotebookUITests {
+  umbrella header "Pods-T's NotebookUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
